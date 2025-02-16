@@ -6,3 +6,9 @@
 
 - [Интернирование](<Интернирование>)
 - [Контекстный менеджер](<Контекстный менеджер>)
+
+## Официальная документация
+
+- [Python 3 documentation](https://docs.python.org/3/index.html)
+- [Python 3 documentation - Python HOWTOs](https://docs.python.org/3/howto/index.html)
+- [CPython Internals Documentation](https://github.com/python/cpython/tree/main/InternalDocs)
